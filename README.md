@@ -11,14 +11,15 @@
 
 ## ⚡ 습득중
   <p align="left">
-    <img title="Hadoop" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/hadoop.svg" width="70" height="40" />
-    <img title="Spark" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg" width="80" height="40" />
-    <img title="Scala" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/scala.svg" width="40" height="40" />
-    <img title="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
-    <img title="Bamboo" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/bamboo.svg" width="40" height="40" />
-    <img title="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" />
-    <img title="Kafka" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/kafka.svg" width="105" height="40" />
-    <img title="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" />
+    <img title="Java" src="https://raw.githubusercontent.com/hunman89/hunman89/master/assets/java_logo.svg" width="70" height="40" />
+    <img title="jQuery" src="https://raw.githubusercontent.com/hunman89/hunman89/master/assets/jquery_logo.png" width="70" height="40" />
+    <img title="Json" src="https://raw.githubusercontent.com/hunman89/hunman89/master/assets/json_logo.png" width="70" height="40" />
+    <img title="Spring" src="https://raw.githubusercontent.com/hunman89/hunman89/master/assets/spring_logo.svg" width="70" height="40" />
+    <img title="mySQL" src="https://raw.githubusercontent.com/hunman89/hunman89/master/assets/mysql_logo.svg" width="70" height="40" />
+    <img title="JavaScript" src="https://raw.githubusercontent.com/hunman89/hunman89/master/assets/Javascript_logo.svg" width="70" height="40" />
+    <img title="React" src="https://raw.githubusercontent.com/hunman89/hunman89/master/assets/react_logo.png" width="70" height="40" />
+    <img title="Hive" src="https://raw.githubusercontent.com/hunman89/hunman89/master/assets/apache_hive_logo.svg" width="70" height="40" />
+    <img title="Python" src="https://raw.githubusercontent.com/hunman89/hunman89/master/assets/python_logo.png" width="70" height="40" />
   </p>
 
 <a href="mailto:hunman89@gmail.com"/>
