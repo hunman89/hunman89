@@ -12,11 +12,13 @@
 ## ⚡ 습득중
   <p align="left">
     <img title="Java" src="https://raw.githubusercontent.com/hunman89/hunman89/master/assets/java_logo.svg" width="70" height="40" />
-    <img title="jQuery" src="https://raw.githubusercontent.com/hunman89/hunman89/master/assets/jquery_logo.png" width="70" height="40" />
-    <img title="Json" src="https://raw.githubusercontent.com/hunman89/hunman89/master/assets/json_logo.png" width="70" height="40" />
+    <img title="jQuery" src="https://raw.githubusercontent.com/hunman89/hunman89/master/assets/jquery_logo.png" width="70" height="20" />
+    <img title="Json" src="https://raw.githubusercontent.com/hunman89/hunman89/master/assets/json_logo.png" width="70" height="20" />
     <img title="Spring" src="https://raw.githubusercontent.com/hunman89/hunman89/master/assets/spring_logo.svg" width="70" height="40" />
     <img title="mySQL" src="https://raw.githubusercontent.com/hunman89/hunman89/master/assets/mysql_logo.svg" width="70" height="40" />
-    <img title="JavaScript" src="https://raw.githubusercontent.com/hunman89/hunman89/master/assets/Javascript_logo.svg" width="70" height="40" />
+    <img title="HTML5" src="https://raw.githubusercontent.com/hunman89/hunman89/master/assets/HTML5_logo.png" width="70" height="40" />
+    <img title="CSS3" src="https://raw.githubusercontent.com/hunman89/hunman89/master/assets/CSS3_logo.svg" width="70" height="40" />
+    <img title="JavaScript" src="https://raw.githubusercontent.com/hunman89/hunman89/master/assets/javascript_logo.svg" width="70" height="40" />
     <img title="React" src="https://raw.githubusercontent.com/hunman89/hunman89/master/assets/react_logo.png" width="70" height="40" />
     <img title="Hive" src="https://raw.githubusercontent.com/hunman89/hunman89/master/assets/apache_hive_logo.svg" width="70" height="40" />
     <img title="Python" src="https://raw.githubusercontent.com/hunman89/hunman89/master/assets/python_logo.png" width="70" height="40" />
