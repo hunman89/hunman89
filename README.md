@@ -12,7 +12,7 @@
 ## ⚡ 습득중
   <p align="left">
     <img title="Java" src="https://raw.githubusercontent.com/hunman89/hunman89/master/assets/java_logo.svg" width="70" height="40" />
-    <img title="jQuery" src="https://raw.githubusercontent.com/hunman89/hunman89/master/assets/jquery_logo.png" width="70" height="20" />
+    <img title="jQuery" src="https://raw.githubusercontent.com/hunman89/hunman89/master/assets/jquery_logo.png" width="60" height="35" />
     <img title="Json" src="https://raw.githubusercontent.com/hunman89/hunman89/master/assets/json_logo.png" width="70" height="20" />
     <img title="Spring" src="https://raw.githubusercontent.com/hunman89/hunman89/master/assets/spring_logo.svg" width="70" height="40" />
     <img title="mySQL" src="https://raw.githubusercontent.com/hunman89/hunman89/master/assets/mysql_logo.svg" width="70" height="40" />
