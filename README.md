@@ -22,6 +22,7 @@
     <img title="React" src="https://raw.githubusercontent.com/hunman89/hunman89/master/assets/react_logo.png" width="70" height="40" />
     <img title="Hive" src="https://raw.githubusercontent.com/hunman89/hunman89/master/assets/apache_hive_logo.svg" width="70" height="40" />
     <img title="Python" src="https://raw.githubusercontent.com/hunman89/hunman89/master/assets/python_logo.png" width="70" height="40" />
+    <img title="Django" src="https://raw.githubusercontent.com/hunman89/hunman89/master/assets/django_logo.png" width="70" height="40" />
   </p>
 
 <a href="mailto:hunman89@gmail.com"/>
