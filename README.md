@@ -10,22 +10,16 @@
   
 
 ## ⚡ 습득중
-  <p align="left">
-    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <p align="left">    
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=Black"/></a>&nbsp
-    <img title="Java" src="https://raw.githubusercontent.com/hunman89/hunman89/master/assets/java_logo.svg" width="70" height="40" />
-    <img title="jQuery" src="https://raw.githubusercontent.com/hunman89/hunman89/master/assets/jquery_logo.png" width="60" height="40" />
-    <img title="Json" src="https://raw.githubusercontent.com/hunman89/hunman89/master/assets/json_logo.png" width="70" height="20" />
-    <img title="Spring" src="https://raw.githubusercontent.com/hunman89/hunman89/master/assets/spring_logo.svg" width="70" height="40" />
-    <img title="mySQL" src="https://raw.githubusercontent.com/hunman89/hunman89/master/assets/mysql_logo.svg" width="70" height="40" />
-    <img title="HTML5" src="https://raw.githubusercontent.com/hunman89/hunman89/master/assets/HTML5_logo.png" width="40" height="40" />
-    <img title="CSS3" src="https://raw.githubusercontent.com/hunman89/hunman89/master/assets/CSS3_logo.svg" width="70" height="40" />
-    <img title="JavaScript" src="https://raw.githubusercontent.com/hunman89/hunman89/master/assets/javascript_logo.png" width="30" height="40" />
-    <img title="React" src="https://raw.githubusercontent.com/hunman89/hunman89/master/assets/react_logo.png" width="70" height="40" />
-    <img title="Hive" src="https://raw.githubusercontent.com/hunman89/hunman89/master/assets/apache_hive_logo.svg" width="70" height="40" />
-    <img title="Python" src="https://raw.githubusercontent.com/hunman89/hunman89/master/assets/python_logo.png" width="70" height="40" />
-    <img title="Django" src="https://raw.githubusercontent.com/hunman89/hunman89/master/assets/django_logo.png" width="70" height="40" />
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp     
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>&nbsp
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=black"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
   </p>
 
 <a href="mailto:hunman89@gmail.com"/>
