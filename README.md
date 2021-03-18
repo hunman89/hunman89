@@ -12,7 +12,7 @@
 
 ## ⚡ 습득중
   <p align="left">
-    <img src="https://img.shields.io/badge/Docker-384d54?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Kubernetes-06118e?style=flat-square&logo=Kubernetes&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
