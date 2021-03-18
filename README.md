@@ -1,17 +1,19 @@
 ## 안녕하세요 정성훈입니다. 😄     
   시작은 늦었지만, 기초를 탄탄히 하고 🌱 , 가파른 러닝커브를 보이겠습니다.
 
- * 식품공학과 석사 졸.
- * 다니던 직장 퇴사 후 개발자로 전향(하기로 마음먹음) (2020.06).
- * 멀티캠퍼스 '빅데이터를 활용한 IoT 시스템 개발' 입과 (2020.07~2020.12).
- * k8s 개발자(2020.02~)
+ * 식품공학과 석사 졸
+ * 다니던 직장 퇴사 후 개발자로 전향(하기로 마음먹음) (2020.06)
+ * 멀티캠퍼스 '빅데이터를 활용한 IoT 시스템 개발'(2020.07~2020.12)
+ * 개발자(2020.02~)
  
 🔭 [포트폴리오](https://hunman89.github.io/about)
 💬 [TIL](https://github.com/hunman89/TIL)
   
 
 ## ⚡ 습득중
-  <p align="left">    
+  <p align="left">
+    <img src="https://img.shields.io/badge/Docker-092E20?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Kubernetes-092E20?style=flat-square&logo=Kubernetes&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp     
