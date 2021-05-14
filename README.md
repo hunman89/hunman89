@@ -1,20 +1,22 @@
-## 안녕하세요 정성훈입니다. 😄     
-  시작은 늦었지만, 기초를 탄탄히 하고 🌱 , 가파른 러닝커브를 보이겠습니다.
- 
+## 안녕하세요 정성훈입니다. 😄
+
+시작은 늦었지만, 기초를 탄탄히 하고 🌱 , 가파른 러닝커브를 보이겠습니다.
+
 🔭 [포트폴리오](https://hunman89.github.io/about)
 💬 [TIL](https://github.com/hunman89/TIL)
-  
 
 ## ⚡ 습득중
+
   <p align="left">
     <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Kubernetes-06118e?style=flat-square&logo=Kubernetes&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/React-61DAFB?
+    style=flat-square&logo=React&logoColor=white"/></a>
+    <br>    ---<br> 
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp     
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp    
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>&nbsp
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=black"/></a>&nbsp
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
@@ -43,4 +45,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
