@@ -2,7 +2,7 @@
 
 시작은 늦었지만, 기초를 탄탄히 하고 🌱 , 가파른 러닝커브를 보이겠습니다.
 
-🔭 [포트폴리오](https://hunman89.github.io/about)
+🔭 [포트폴리오](https://hunman89blogmaster.gatsbyjs.io/about)
 💬 [TIL](https://github.com/hunman89/TIL)
 
 ## ⚡ 습득중
@@ -28,7 +28,7 @@
     src="https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2F=mailto:hunman89@gmail.com" 
     style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://hunman89.github.io/">
+<a href="https://hunman89blogmaster.gatsbyjs.io/">
   <img 
     src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
     style="height : auto; margin-left : 10px; margin-right : 10px;"/>
