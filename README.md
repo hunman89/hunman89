@@ -1,27 +1,22 @@
-## 안녕하세요 정성훈입니다. 😄
 
-시작은 늦었지만, 기초를 탄탄히 하고 🌱 , 가파른 러닝커브를 보이겠습니다.
+* Full Stack Developer
+* MSc in Food Science and Technology
 
-🔭 [포트폴리오](https://hunman89blogmaster.gatsbyjs.io/about)
-💬 [TIL](https://github.com/hunman89/TIL)
 
-## ⚡ 습득중
+### ⚡ Tech Stack
 
   <p align="left">
-    <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/Nestjs-fc0345?style=flat-square&logo=Nestjs&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Graphql-e535ab?style=flat-square&logo=Graphql&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/TailwindCSS-3B82F6?style=flat-square&logo=Tailwindcss&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Typescript-007ACC?style=flat-square&logo=Typescript&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Kubernetes-06118e?style=flat-square&logo=Kubernetes&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/Nestjs-fc0345?style=flat-square&logo=Nestjs&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/Typescript-007ACC?style=flat-square&logo=Typescript&logoColor=white"/></a>
-    <br>    ---<br> 
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp    
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=black"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
   </p>
+
+...
 
 <a href="mailto:hunman89@gmail.com"/>
   <img 
