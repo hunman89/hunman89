@@ -1,5 +1,5 @@
 
-* Full Stack Developer
+* Full Stack Developer (21.02 ~ )
 * MSc in Food Science and Technology
 
 
