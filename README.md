@@ -6,7 +6,7 @@
 ### ⚡ Tech Stack
 
   <p align="left">
-    <img src="https://img.shields.io/badge/Nextjs-000000?style=flat-square&logo=Nextjs&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Nextjs-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/Nestjs-fc0345?style=flat-square&logo=Nestjs&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Graphql-e535ab?style=flat-square&logo=Graphql&logoColor=white"/></a>&nbsp
