@@ -1,17 +1,13 @@
 
-* Junior Full Stack Developer (21.02 ~ )
+* Junior Developer (21.02 ~ )
 * MSc in Food Science and Technology
 
 
 ### ⚡ Tech Stack
 
   <p align="left">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Nextjs-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/TailwindCSS-3B82F6?style=flat-square&logo=Tailwindcss&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Typescript-007ACC?style=flat-square&logo=Typescript&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Kubernetes-06118e?style=flat-square&logo=Kubernetes&logoColor=white"/></a>&nbsp
   </p>
 
 ...
