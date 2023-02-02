@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Nextjs-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>&nbsp
   </p>
 
-...
+<!-- ...
 
 <a href="mailto:hunman89@gmail.com"/>
   <img 
@@ -21,7 +21,7 @@
   <img 
     src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
     style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+</a> -->
 <!--
 **hunman89/hunman89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
