@@ -1,6 +1,6 @@
 
-* Junior Developer (21.02 ~ )
-* MSc in Food Science and Technology
+* 조금씩 성장하는 개발자 (21.02 ~ )
+* 식품공학 학,석사
 
 
 ### ⚡ Tech Stack
@@ -8,6 +8,7 @@
   <p align="left">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Nextjs-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Kubernetes-296de8?style=flat-square&logo=Kubernetes&logoColor=white"/></a>&nbsp
   </p>
 
 <!-- ...
